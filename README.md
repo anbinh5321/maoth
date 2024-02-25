@@ -1,0 +1,2 @@
+# maoth
+npm
